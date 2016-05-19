@@ -1,0 +1,1 @@
+# js-create-objects-readme-seiji-test-batch-001
